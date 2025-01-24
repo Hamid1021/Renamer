@@ -27,7 +27,7 @@
 ##### مرحله هشتم
 ![MainUI Windows](sc/8.jpg)
 
-## Credit
+## تهیه شده توسط
 
 - Windows developer : [Mr.Hidden](https://t.me/Darker1063)
 - - [Github](https://github.com/hamid1021)
