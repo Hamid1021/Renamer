@@ -1,0 +1,12 @@
+D:\2 - myProject\C#\Serial Renamer\bin\Debug\Serial Renamer.exe.config
+D:\2 - myProject\C#\Serial Renamer\bin\Debug\Serial Renamer.exe
+D:\2 - myProject\C#\Serial Renamer\bin\Debug\Serial Renamer.pdb
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial Renamer.csproj.AssemblyReference.cache
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial_Renamer.Properties.Resources.resources
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial Renamer.csproj.GenerateResource.cache
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial Renamer.csproj.CoreCompileInputs.cache
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial Renamer.exe
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial Renamer.pdb
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial_Renamer.Form1.resources
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial_Renamer.CreditForm.resources
+D:\2 - myProject\C#\Serial Renamer\obj\Debug\Serial_Renamer.FilesList.resources
