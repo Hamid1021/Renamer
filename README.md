@@ -1,4 +1,4 @@
-# Renamer.exe
+# Serial Renamer.exe
 نرم افزاری برای تغییر نام یک دسته فایل به صورت منظم
 
 ## آموزش نصب
@@ -29,7 +29,11 @@
 
 ## تهیه شده توسط
 
+## Credit
+
 - Windows developer : [Mr.Hidden](https://t.me/Darker1063)
 - - [Github](https://github.com/hamid1021)
+- macOS and Linux developer and CC: [J4RVIS](https://me.amsl.ir)
+- - [GitHub](https://github.com/JARVIS-AI)
 
 Hope you have ejoy using this app and learn new things
