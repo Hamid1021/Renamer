@@ -210,7 +210,6 @@ namespace Serial_Renamer
                     "هشدار", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
-
         private void PathState(bool status)
         {
             foreach (Control control in groupBox3.Controls)
